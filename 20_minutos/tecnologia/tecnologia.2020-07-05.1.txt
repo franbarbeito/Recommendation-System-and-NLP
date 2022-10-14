@@ -1,0 +1,7 @@
+Google Chat Android Gmail tagfree 
+Gmail prepara una nueva función de chat alternativa a Hangouts
+La plataforma de correo Gmail de Google ha incluido cambios en su código con los que prepara la integración de una nueva funcionalidad de chats, tanto individuales como grupales, que será una alternativa a Hangouts, similar a la función actual Meet para las videollamadas.
+Chat, como se llama la función a nivel interno, es la denominación que toman los chats privados entre dos usuarios de Gmail, mientras que las conversaciones grupales se conocen como Rooms, todo ello tanto para perfiles privados como para los profesionales.
+Así lo ha advertido el portal 9to5Google al analizar el código de la aplicación de Gmail para Android, en la que pasa hacerse referencia a que "hay más formas para conectarse y colaborar sin cambiar de aplicaciones".
+La llegada de Chat a Gmail coincide con la progresiva retirada de la marca Hangouts, que ya había sido avanzada en varios documentos técnicos de la empresa.
+Hangouts agrupaba los servicios de colaboración de Google, pero ahora ha dejado paso a Google Meet para las videollamadas y a Google Chat para la mensajería.

@@ -1,0 +1,13 @@
+Google Realidadvirtual 
+Esta pelota es en realidad una de las cámaras más sofisticadas del mundo
+Los nuevos inventos no suelen caracterizarse por sus cualidades estéticas. Eso precisamente sucede con el último aparato presentado por Google, que ha desarrollado un nuevo sistema para grabar vídeos y capturar imágenes inmersivas utilizando una cúpula en la que se han instalado 46 cámaras sincronizadas. Una vez captado el material, el mismo sistema se encarga de comprimirlos para que sean más ligeros. 
+ Al conseguir vídeo con un tamaño menor, la tecnología desarrollada por Google permite que puedan renderizarse en plataformas móviles de Realidad Virtual o de Realidad Aumentada, así como en navegadores web, según ha explicado la firma de Silicon Valley.. 
+ Mediante el uso de unas cúpulas de 92 centímetros de diámetro en las que se colocan 46 cámaras sincronizadas, el sistema de Google permite obtener vídeos volumétricos 6DOF -siglas de '6 grados de libertad-, que permiten al usuario moverse en tres dimensiones y cambiar la orientación en tres ejes perpendiculares más. De esta forma son posibles movimientos como derrapes, inclinación y balanceos, según Europa Press. 
+El vídeo 6DOF supone un avance con respecto a la tecnología 3DOF, con tres grados de libertad, utilizada habitualmente por los sistemas de Realidad Virtual actuales, con movimientos limitados por el uso de solo tres ejes. 
+Los vídeos 6DOF grabados por el sistema de Google presentan una resolución de diez píxeles por grado angular, un rango de visión amplio superior a 220 grados y un ratio de 30 fotogramas por segundo. 
+Además, a pesar de que las cámaras tiene una separación de 18 centímetros entre ellas en su disposición en la cúpula, son capaces de grabar objetos situados a una distancia mínima de 20 centímetros. 
+ Google hace uso de un algoritmo de interpolación, DeepView, y lo ha modificado para permitir que funcione con varios vídeos esféricos, una disposición más favorable para representar contenido panorámico ligero. 
+ Posteriormente, estos datos son procesados para reducir el número de capas a un número pequeño de capas de profundidad y RGBA sin que se pierda una cantidad significativa de calidad de imagen. 
+Los canales RGB, alfa y de profundidad después se comprimen utilizando técnicas de atlas de texturas y de compresión de vídeo. El resultado final son vídeos ligeros que pueden renderizarse en plataformas móviles de Realidad Virtual y Realidad Aumentada o en navegadores. 
+ Google ha anunciado que presentará este nuevo sistema en Siggraph 2020, la conferencia de gráficos de ordenador que se celebrará del 19 al 23 de julio en Washington.
+Conforme a los criterios deThe Trust Project

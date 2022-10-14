@@ -1,0 +1,8 @@
+WiFi Internet 
+Lo que nunca debes hacer si te conectas a una WiFi pública
+Llega el verano y con él las vacaciones, una época en la que solemos pasar más tiempo fuera y conectarnos a redes inalámbricas en bares, hoteles  o centros comerciales. Pero es algo que puede ser peligroso. El diario ABC recoge cinco cosas que no se deben hacer nunca al conectarse a a red WiFi pública.
+Banca en línea. Los expertos recomiendan no entrar en aplicaciones de banca online si estamos usando una red WiFi pública, porque posibles ciberdelincuentes podrían acceder a los datos bancarios sin ser detectados.
+Aplicaciones de pago. Por el mismo motivo, no se recomienda usar aplicaciones de pago con redes públicas. La información que contienen es susceptible de ser usada de manera maliciosa, como por ejemplo los datos de la tarjeta.
+Redes sociales y correo electrónico. Hacer uso de tus cuentas en redes sociales o de tu cuenta de e-mail con una red pública puede hacerlas vulnerables ante atacantes. Se recomienda cerrar la sesión tras su uso e incluso cambiar las contraseñas.
+Vigilar los clics. Hay que acceder sólo a páginas web fiables, por lo que hay que tener mucho cuidado a la hora de hacer clic en una página que puede ser fraudulenta.
+Antivirus. Los expertos recomiendan tener en el teléfono un antivirus de calidad, algo que es muy común en ordenadores pero no tanto con nuestros smartphones.

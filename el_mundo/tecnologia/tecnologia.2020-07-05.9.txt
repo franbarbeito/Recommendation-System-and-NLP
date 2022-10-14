@@ -1,0 +1,9 @@
+Google 
+Dinosaurios 3D de Google: así puedes tener un Parque Jurásico en el salón de tu casa con realidad aumentada
+Tras el éxito de sus animales en realidad aumentada, Google ha actualizado su aplicación para que se puedan ver dinosaurios en 3D. Así, desde la app es posible ver en el móvil dinosaurios en realidad aumentada.
+En concreto, es posible ver 10 de estos animales prehistóricos, todos ellos pertenecientes a la saga Parque Jurásico: Tiranosaurio Rex, Velociraptor, Triceratops, Espinosaurio, Estegosaurio, Braquiosaurio, Anquilosaurio, Dilofosaurio, Pteranodon y Parasaurolophus.
+Para ver los dinosaurios en 3D en tu móvil solo hay que escribir la palabra "dinosaurio" en la búsqueda del móvil (en las versiones de Android 7 o superior) y seleccionar 'Ver en 3D' para girarlo o hacer zoom para verlo de cerca. Además, es posible colocarlo en cualquier espacio mediante realidad aumentada y ajustar su tamaño para ver cómo de grande sería en relación al entorno.
+Según explica la compañía en su blog, "a nueva función de autoescala de Android puede calcular automáticamente la distancia entre tu teléfono y una superficie de tu espacio y cambiar el tamaño del dinosaurio para que se ajuste a la pantalla de tu teléfono". De este modo, al seleccionar 'Ver el tamaño real', la tecnología de detección de realidad aumentada "reposiciona al dinosaurio automáticamente en tu espacio para que quepa en la habitación".
+Además, si se sube el volumen de los dispositivos Android se podrá escuchar el sonido de sus pasos o su rugido. Los modelos de todos ellos han sido extraídos del juego Jurassic World Alive.
+En iOS el procedimiento es similar, aunque hay que buscar alguno de los 10 dinosaurios en la aplicación de Google o tras entrar en el buscador desde el navegador (solo es compatible con Chrome y Safari). Los dinosaurios en 3D están disponibles en iOS 11 en adelante.
+Conforme a los criterios deThe Trust Project

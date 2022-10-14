@@ -1,0 +1,10 @@
+Infecciones Células Coronavirus Virusrespiratorios Estadodealarmaporcoronavirus 
+El siniestro cambio que el coronavirus provoca en las células humanas infectadas
+Una de las principales características del coronavirus es la facilidad que tiene para reproducirse. Investigadores de todo el mundo tratan de descifrar cómo ocurre y ahora, un equipo internacional de científicos ha hecho un inquietante hallazgo: la siniestra manera en la que el Sars-Cov-2 modifica las células humanas que infecta.
+Cuando el virus infecta a la célula, ésta recibe 'instrucciones' del invasor y desarrolla una especie de tentáculos que los científicos creen que ayudan a la dispersión del virus.
+La BBC recoge declaraciones de Pedro Beltrao, investigador del Instituto Europeo de Bioinformática del Laboratorio Europeo de Biología Molecular (EBI-EMBL), en Cambridge: "Lo que descubrimos es que el virus induce a la célula a crear estas protuberancias, que son como largas ramas o tentáculos".
+"En otros virus se ha visto que (estos tentáculos) desempeñan un papel en la rápida propagación de la infección porque le ayudan al virus a invadir células cercanas", añade Beltrao.
+En imágenes por microscopio, los científicos han logrado captar cómo de estos tentáculos, llamados filopodios, brota el virus en busca de otras células que infectar.
+Las fotografías por microscopio las logró captar la doctora Elizabeth Fischer, de la Unidad de Microscopía de los Laboratorios Rocky Mountain (EE UU), y científicos de la Universidad de Friburgo en Alemania. 
+Pero desarrollar tentáculos no es lo único que hace el coronavirus cuando infecta una célula: "Otra conducta que vimos es que la célula deja de dividirse en cierto punto particular del ciclo de división y pensamos que esto crea un ambiente propicio para que el virus se replique", dice Pedro Beltrao.
+"Y la tercera conducta que detectamos es una mayor producción de citoquinas, responsables de la respuesta inflamatoria", añade. "Esto es importante, porque creemos que este es uno de los factores que pueden estar causando la exagerada inflamación en las etapas avanzadas de la enfermedad de la Covid-19", concluye.
